@@ -1,0 +1,55 @@
+
+h1{
+    color: black;
+    text-align: center;
+
+}
+
+.container {
+    max-width: 25vw;;
+    max-height: 120vh;
+    display: flex;
+    flex-direction: column;
+    border: 8px solid #E2E5de;
+    padding: 10px;
+    content:center;
+    align-items: center;
+    background-color: #E2E5DE;
+    border-radius: 15px;
+    box-shadow: 0 0 10px ,inset 0 0 10px #E2E5DE
+}
+
+.input{
+    width:23vw;
+    height:15px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 9px;
+    font-size: 20px;
+    font-family: Kanit;
+    text-align: right;
+    box-shadow: 0 0 10px grey, inset 0 0 10px #E2E5DE
+}
+.mx-auto {
+    margin:auto;
+}
+
+.button{
+    padding:10px;
+    font-size:13px;
+    border-radius: 8px;
+    border: 1px solid black;
+    font-family: Kanit;
+    width: 45px;
+    margin: 5px 2px;
+    cursor:pointer;
+    align-items: center;
+    background-color:black;
+    color:white;
+    box-shadow: 0 0 5px, inset 0 0 7px 
+
+
+   
+}
+
